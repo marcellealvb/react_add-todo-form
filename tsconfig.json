@@ -4,6 +4,9 @@
     "src"
   ],
   "compilerOptions": {
+    "jsx": "react-jsx",
+    "module": "esnext",
+    "target": "esnext",
     "sourceMap": false,
     "types": ["node", "cypress"]
   }
